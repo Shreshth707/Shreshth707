@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning and working on ReactJS and NextJS
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: pratyushk.it18@nsut.ac.in
+- 📫 How to reach me: sirolashreshth@gmail.com
 - ⚡ Fun fact: Gamer🙂
-- ![](https://komarev.com/ghpvc/?username=PratyushK7&color=green)
+- ![](https://komarev.com/ghpvc/?username=Shreshth707&color=green)
 
 ### Languages,Libraries ,Frameworks & Tools   
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">    <a href="https://postman.com" target="_blank">  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkGIRgfzgriqwYAkds8K-Mbh5cMSXQsWvHg&usqp=CAU"/>  </p>
  <br />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushK7&layout=compact)](https://github.com/PratyushK7/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshth707&layout=compact)](https://github.com/Shreshth707/github-readme-stats)
  <br/>
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushK7&show_icons=true&count_private=true&theme=radical)
+![Shreshth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreshth707&show_icons=true&count_private=true&theme=radical)
 
